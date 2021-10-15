@@ -19,6 +19,3 @@ group = 1
 radio.setGroup(group)
 data = 100
 password = 123
-basic.forever(function () {
-	
-})
